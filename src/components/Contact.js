@@ -10,7 +10,7 @@ export default class Contact extends Component {
           </h4>
           <br />
           <h4>
-            <a href="https://www.instagram.com/reelbassackwards/">@Facebook</a>
+            <a href="https://www.instagram.com/reelbassackwards/">@Snapchat</a>
           </h4>
           <br />
           <h4>
